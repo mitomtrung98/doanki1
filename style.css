@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.content{
+    margin: 0 400px;
+    text-align: center;
+}
+.heading{
+    margin-top: 60px;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.section-container
+{
+    text-align: justify;
+    padding: 60px 20px;
+    float: left;
+    width: 33.3%;
+    display: inline-block;
+}
+.section-container-heading
+{
+    margin-bottom: 20px;
+    font-weight: 100;
+    font-size: 34px;
+}
+.setion-container-discription
+{
+    margin-bottom: 20px;
+    font-weight: 1000;
+    font-size: 20px;
+}
